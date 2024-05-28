@@ -157,7 +157,7 @@ font-size: 20px;
 }
 .facebook-list-wrapper-4 {
     position: relative;
-    top:12850px;
+    top:12670px;
 }
 
 .facebook-list {
@@ -186,31 +186,35 @@ font-size: 20px;
 .facebook-list-item {
     margin: 05px;
     position: relative;
+    
 }
 
 .facebook-list-item-2 {
     margin:05px ;
     position:relative ;
+    
 
 }
 .facebook-list-item-3 {
     margin: 05px;
     position: relative;
+    
 }
 .facebook-list-item-4 {
     margin: 05px;
     position: relative;
+    
 }
 .facebook-list-item-image {
     height:280px;
-    width: 200px;
+    width: 180px;
     object-fit: cover;
     align-items: center;
     border-radius: 20px;
 }
 .facebook-list-item-image-2 {
     height: 230px;
-    width:180px ;
+    width:160px ;
     object-fit: cover;
     align-items: center;
     border-radius: 20px;
@@ -218,14 +222,14 @@ font-size: 20px;
 }
 .facebook-list-item-image-3 {
     height: 230px;
-    width: 180px;
+    width: 160px;
     object-fit: cover;
     align-items: center;
     border-radius: 20px;
 }
 .facebook-list-item-image-4 {
     height: 230px;
-    width: 180px;
+    width: 160px;
     object-fit: cover;
     align-items: center;
     border-radius: 20px;
@@ -351,7 +355,7 @@ font-size: 20px;
     border-radius: 6px;
     color: aliceblue;
     margin: 20px 0;
-    top: 11980px;
+    top: 11800px;
 
     
 }
@@ -645,7 +649,7 @@ font-size: 20px;
 }
 .facebook-list-title-4 {
     position:relative ;
-    top: 12800px;
+    top: 12620px;
     color: aliceblue;
 }
 
@@ -704,4 +708,15 @@ font-size: 20px;
     align-items: center;
     font-size: 25px;
     font-weight: 900;
+}
+
+.arrow {
+    font-size: 120px;
+    position: absolute;
+    top: 80px;
+    align-items: center;
+    right: 0px;
+    color: rgba(240, 248, 255, 0.516);
+    opacity: 5;
+    cursor: pointer;
 }
